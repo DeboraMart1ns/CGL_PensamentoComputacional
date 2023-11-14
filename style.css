@@ -5,6 +5,15 @@
 
 }
 
+.titulo-principal {
+    background-color: #89B9AD;
+}
+
+.texto-principal {
+    background-color: #C7DCA7;
+
+}
+
 .texto {
     text-align: center;
     color: #000000;
@@ -20,9 +29,7 @@ body {
     color: #000000;
 }
 
-#logo {
-    
-}
+#logo {}
 
 footer {
     background-color: #b7b9dd;
