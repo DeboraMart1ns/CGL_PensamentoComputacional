@@ -21,7 +21,9 @@
 }
 
 #imgprincipal {
-    
+    width: 70%;
+    padding: 40px;
+    margin: 30px;
 }
 
 footer {
