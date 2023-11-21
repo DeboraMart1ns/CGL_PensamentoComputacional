@@ -5,16 +5,16 @@
 
 }
 
-.cabecalho{
+.cabecalho {
     padding: 20px;
-    background-color:rgb(193, 220, 147)7);
+    background-color: rgb(193, 220, 147)7);
     border-bottom: 2px solid rgb(203, 149, 102);
-    font-size:32px;
+    font-size: 32px;
     color: rgb(137, 137, 172);
     text-align: center;
 }
 
-.conteudo{
+.conteudo {
     background-color: #89B9AD;
 }
 
@@ -26,6 +26,7 @@
 .texto {
     border-radius: 2px solid red;
 }
+
 #imgprincipal {
     width: 70%;
     padding: 100px;
