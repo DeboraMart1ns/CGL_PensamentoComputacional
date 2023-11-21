@@ -5,6 +5,14 @@
 
 }
 
+.cabecalho{
+    padding: 20px;
+    background-color:rgb(96, 107, 77)1, 208);
+    border-bottom: 2px solid white;
+    font-size:32px;
+    color: blue;
+}
+
 .texto-principal{
     background-color: #89B9AD;
 }
