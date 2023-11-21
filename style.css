@@ -7,8 +7,8 @@
 
 .cabecalho{
     padding: 20px;
-    background-color:rgb(96, 107, 77)1, 208);
-    border-bottom: 2px solid white;
+    background-color:rgb(96, 107, 77);
+    border-bottom: 2px solid rgb(236, 115, 10);
     font-size:32px;
     color: blue;
 }
