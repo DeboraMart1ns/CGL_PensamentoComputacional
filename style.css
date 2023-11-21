@@ -1,4 +1,4 @@
-#titulo {
+.titulo {
     font-size: 40px;
     color: rgb(255, 255, 255);
     background-color: #00021F;
@@ -19,8 +19,8 @@
 }
 
 .conteudo-secundario {
-    background-color: #C7DCA7;
-    border-bottom: 10px solid rgb(173, 112, 112)5);
+background-image: linear-gradient(rgb(90, 40,59), rgb(45, 40, 90));    border-bottom: 10px solid rgb(173, 112, 112)5);
+color: rgb(00, 0, 0);
 }
 
 #imgprincipal {
