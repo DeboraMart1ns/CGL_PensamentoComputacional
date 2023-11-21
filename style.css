@@ -23,6 +23,9 @@
 
 }
 
+.texto {
+    border-radius: 2px solid red;
+}
 #imgprincipal {
     width: 70%;
     padding: 100px;
