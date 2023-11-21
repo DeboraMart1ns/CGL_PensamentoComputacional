@@ -8,9 +8,9 @@
 .cabecalho{
     padding: 20px;
     background-color:rgb(96, 107, 77);
-    border-bottom: 2px solid rgb(236, 115, 10);
+    border-bottom: 2px solid rgb(203, 149, 102);
     font-size:32px;
-    color: blue;
+    color: rgb(137, 137, 172);
 }
 
 .texto-principal{
