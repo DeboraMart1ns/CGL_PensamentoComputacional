@@ -15,12 +15,12 @@
 }
 
 .conteudo {
-    background-color: #89B9AD;
+    background-color: #e2e7e6;
 }
 
 .conteudo-secundario {
     background-color: #C7DCA7;
-    border-radius: 2px solid red;
+    border-radius: 10px solid red;
 }
 
 #imgprincipal {
