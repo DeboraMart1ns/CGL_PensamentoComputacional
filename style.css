@@ -16,11 +16,11 @@
 
 .conteudo {
     background-color: #e2e7e6;
+    border-radius: 10px solid rgb(123, 108, 108);
 }
 
 .conteudo-secundario {
     background-color: #C7DCA7;
-    border-radius: 10px solid red;
 }
 
 #imgprincipal {
