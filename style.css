@@ -14,7 +14,6 @@
     font-size: 32px;
     color: rgb(137, 137, 172);
     text-align: center;
-    display: inline-block;
 }
 
 .conteudo {
@@ -29,6 +28,7 @@ color: rgb(00, 0, 0);
 
 .listas {
 background-color: #D0F285;
+display: inline-block;
 }
 
 #imgprincipal {
